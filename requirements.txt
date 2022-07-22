@@ -50,19 +50,4 @@ Werkzeug==2.0.3
 wrapt==1.13.3
 zipp==3.7.0
 pillow==9.0
-opencv-python-headless==4.2.0.32
 tensorflow-cpu
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
